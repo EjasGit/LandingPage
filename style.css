@@ -10,3 +10,7 @@
     margin: 0;
     gap: 8px;
 }
+
+button {
+    color: blue;
+}
